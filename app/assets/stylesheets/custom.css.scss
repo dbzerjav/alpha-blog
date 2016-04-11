@@ -79,6 +79,19 @@ $navbar-default-bg: purple;
     padding-left: 0;
 }
 
+.badge {
+    background-color: yellow;
+    text-transform: uppercase;
+    letter-spacing: -1px;
+    color: purple;
+    font-weight: bold;
+    border: 2px solid purple;
+}
+
+.input_checkbox input {
+    witdh: auto !important;
+}
+
 .footer {
     margin-top: 45px;
     padding-top: 5px;
